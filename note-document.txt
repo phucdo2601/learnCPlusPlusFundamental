@@ -102,3 +102,9 @@ int main() {
 }
 In this example, obj is a constant object of MyClass, and getValue is a constant member function that returns the value of the constant data member value.
 By using const appropriately, you can ensure immutability where needed, which helps in 
+
+
+##########################################################################################################################
+Defining a Namespace
+In C++, a namespace is a declarative region that provides a scope to the identifiers (names of types, functions, variables, etc.) inside it. Namespaces are used to organize code into logical groups 
+and to prevent name collisions that can occur especially when your code base includes multiple libraries.
